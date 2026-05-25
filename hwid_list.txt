@@ -1,7 +1,5 @@
 # HWID Access List
-# Add one HWID per line below
-# Lines starting with # are comments and are ignored
-# Example entry format:  HWID|ClientName
-# You can also just put the raw HWID with no name
+# Format: HWID|ClientName  (name is optional)
+# Lines starting with # are ignored
 
-# ---- ADD YOUR USERS BELOW THIS LINE ----
+S-1-5-21-2078957457-1563926009-703113182-1001|Tanish
