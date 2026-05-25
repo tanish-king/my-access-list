@@ -1,1 +1,7 @@
+# HWID Access List
+# Add one HWID per line below
+# Lines starting with # are comments and are ignored
+# Example entry format:  HWID|ClientName
+# You can also just put the raw HWID with no name
 
+# ---- ADD YOUR USERS BELOW THIS LINE ----
