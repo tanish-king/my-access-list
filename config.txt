@@ -1,0 +1,6 @@
+# Global Config
+# FREE_MODE: true or false
+# FREE_EXPIRY: YYYY-MM-DD HH:MM or never
+
+FREE_MODE=false
+FREE_EXPIRY=never
