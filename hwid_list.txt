@@ -1,7 +1,6 @@
 # HWID Access List
-# Format: SID|Name|Role|Expiry
+# Format: SID|Name|Role|Expiry|Notes
 # Roles: owner, coowner, vip, normal
 # Expiry: YYYY-MM-DD or never
-# Lines starting with # are ignored
 
-# ---- ADD USERS BELOW ----
+S-1-5-21-2078957457-1563926009-703113182-1001|Tanish|owner|2030-11-11|own
